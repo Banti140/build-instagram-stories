@@ -1,13 +1,12 @@
-These are the sequence of commands to run this chat application on any laptop:-
+# React + Vite
 
-1. mkdir chat-project
-2. cd chat-project
-3. Initialize a new Vite React project:- npm create vite@latest
-4. Install the required dependencies:- npm install
-5. Replace the default files with our chat application code:
-    a. Create the component files in the src/components directory
-    b. Update App.jsx, App.css, and other files as we have in this code.
-6. Start the development server:- npm run dev
-7. Open the application in your browser:-
-   a. The terminal will show a URL (usually http://localhost:5173/)
-   b. Open this URL in your browser
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.

@@ -1,0 +1,36 @@
+.stories-list {
+  display: flex;
+  overflow-x: auto;
+  padding: 10px 0;
+  gap: 15px;
+  scrollbar-width: none; 
+}
+
+.stories-list::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Edge */
+}
+
+.story-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+}
+
+.story-thumbnail {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #e1306c;
+  padding: 2px;
+}
+
+.story-username {
+  font-size: 12px;
+  margin-top: 5px;
+  max-width: 70px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
