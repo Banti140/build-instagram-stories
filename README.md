@@ -1,5 +1,7 @@
 ### Design Choices for Instagram Stories Feature
 
+This is the deployed UI on Vercel - https://build-instagram-stories.vercel.app/
+
 #### Performance Optimizations
 
 * **Efficient Rendering**
