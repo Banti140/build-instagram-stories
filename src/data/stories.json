@@ -2,31 +2,31 @@
   {
     "id": "1",
     "username": "user1",
-    "userAvatar": "https://via.placeholder.com/50",
-    "imageUrl": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp"
+    "userAvatar": "/image0.jpeg",
+    "imageUrl": "/image0.jpeg"
   },
   {
     "id": "2",
     "username": "user2",
-    "userAvatar": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp",
-    "imageUrl": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/1.webp"
+    "userAvatar": "/image2.jpeg",
+    "imageUrl": "/image2.jpeg"
   },
   {
     "id": "3",
     "username": "user3",
-    "userAvatar": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp",
-    "imageUrl": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/1.webp"
+    "userAvatar": "/image3.jpeg",
+    "imageUrl": "/image3.jpeg"
   },
   {
     "id": "4",
     "username": "user4",
-    "userAvatar": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp",
-    "imageUrl": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/1.webp"
+    "userAvatar": "/image4.jpeg",
+    "imageUrl": "/image4.jpeg"
   },
   {
     "id": "5",
     "username": "user5",
-    "userAvatar": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp",
-    "imageUrl": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/1.webp"
+    "userAvatar": "/image5.jpeg",
+    "imageUrl": "/image5.jpeg"
   }
 ]
